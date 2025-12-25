@@ -35,6 +35,6 @@ ________________________________________________________________________________
 ## Repository Contents (*High Level*)
 Analysis_Report: Executive summary of findings and policy recommendations. 
 
-Visualizations: (Optional: Upload any Excel charts or Power BI screenshots showing the "Before vs. After" of energy usage). 
+Visualizations: Reports & Graphs 
 
 *Images are for project documentation only and may not be reused without permission.*
