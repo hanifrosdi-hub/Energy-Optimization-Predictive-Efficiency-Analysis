@@ -37,4 +37,4 @@ Analysis_Report: Executive summary of findings and policy recommendations.
 
 Visualizations: Reports & Graphs 
 
-*Images are for project documentation only and may not be reused without permission.*
+*Images & Reports are for project documentation only and may not be reused without permission.*
